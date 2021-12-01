@@ -1,61 +1,61 @@
 [
     {
         "name":"Aron Piper", 
-        "birth":"March 29, 1997", 
+        "birth":"1997-03-29", 
         "director":"Silvia Quer",
         "genre":"Teen drama"
     },
     {
         "name":"Ester Exposito", 
-        "birth":"January 26, 2000", 
+        "birth":"2000-01-26", 
         "director":"Silvia Quer",
         "genre":"Teen drama"
     },
     {
         "name":"Miguel Bernardeau", 
-        "birth":"December 12, 1996", 
+        "birth":"1996-12-12", 
         "director":"Silvia Quer",
         "genre":"Teen drama"
     },
     {
         "name":"Itzan Escamilla", 
-        "birth":"October 31, 1997", 
+        "birth":"1997-10-31", 
         "director":"Silvia Quer",
         "genre":"Teen drama"
     },
     {
         "name":"Danna Paola", 
-        "birth":"June 23, 1995", 
+        "birth":"1995-06-23", 
         "director":"Silvia Quer",
         "genre":"Teen drama"
     },
     {
         "name":"Claudia Salas", 
-        "birth":"July 23, 1994", 
+        "birth":"1994-07-23", 
         "director":"Silvia Quer",
         "genre":"Teen drama"
     },
     {
         "name":"Omar Ayuso", 
-        "birth":"March 26, 1998", 
+        "birth":"1998-03-26", 
         "director":"Silvia Quer",
         "genre":"Teen drama"
     },
     {
         "name":"Mina El Hammani", 
-        "birth":"November 29, 1993", 
+        "birth":"1993-11-29", 
         "director":"Silvia Quer",
         "genre":"Teen drama"
     },
     {
         "name":"Georgina Amoros", 
-        "birth":"April 30, 1998", 
+        "birth":"1998-04-30", 
         "director":"Silvia Quer",
         "genre":"Teen drama"
     },
     {
         "name":"Alvaro Rico", 
-        "birth":"August 13, 1996", 
+        "birth":"1996-08-13", 
         "director":"Silvia Quer",
         "genre":"Teen drama"
     }
